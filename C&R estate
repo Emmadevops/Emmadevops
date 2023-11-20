@@ -1,0 +1,5 @@
+echo "please enter your name"
+read $name
+echo"please enter your password"
+read -S $password
+echo "WELCOME TO CONSTRUCTION & REAL ESTATE"
